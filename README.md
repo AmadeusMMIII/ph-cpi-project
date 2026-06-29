@@ -67,7 +67,7 @@ The original source data was reporting months horizontally (`2023 Jan`, `2023 Fe
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/AmadeusMMIII/ph-cpi-project.git
-cd ph-cpi-elt-pipeline
+cd ph-cpi-project
 ```
 
 
