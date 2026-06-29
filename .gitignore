@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local Data / Temporary Files
+data/*.csv
+data/*.xlsx
+.DS_Store
+
+# dbt logs and generated targets
+transform_dbt/target/
+transform_dbt/dbt_packages/
+transform_dbt/logs/
+
+# Sensitive profile configurations (if stored locally in project)
+transform_dbt/profiles.yml
